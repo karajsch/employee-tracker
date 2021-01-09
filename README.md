@@ -1,6 +1,6 @@
 # Employee Tracker
 
-![Employee Tracker](https://github.com/karajsch/employee-tracker/screenshot.png)
+![Employee Tracker](/screenshot.png)
 
 ## Project Description 
 Employee Tracker is a clean and easy to use database that allows you to add, delete, update all of the employees and managers within a company. 
